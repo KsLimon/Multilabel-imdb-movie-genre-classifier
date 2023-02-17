@@ -5,8 +5,6 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 
-columns = ["Institution", "Count for ins", "Faculty", "Author's Pub", "Adj.#", "Field of Work", "Citations", "h-index", "i10-index", "ORCID", "HomePage"]
-
 def main():
     url = "https://www.imdb.com/search/title/?num_votes=10000%2C&sort=user_rating%2Cdesc&title_type=feature&fbclid=IwAR1i0nrqbnIun7kmWd7QJj5GFwZ6HFHXYIgnbFD7wh5RNX5ZuQ2NBJ_XxEE"
 
