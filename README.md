@@ -1,7 +1,27 @@
 # Multilabel-imdb-movie-genre-classifier
-A multi-label movie description classifier that can classify 29 different genres of movies.
 
-https://huggingface.co/spaces/KamrusSamad/multilabel-imdb-movie-genre-classifier
+## Introduction
 
-https://kamrussamad-multilabel-imdb-movie-genre-clas-253b5da.hf.space/run/predict
+
+## Data
+
+## Model
+
+## Deployment
+The model is deployed using Hugging Face's Model Hub and can be accessed through the following links:
+- Space App link: https://huggingface.co/spaces/KamrusSamad/multilabel-imdb-movie-genre-classifier
+- Render app link: https://multilabel-imdb-movie-genre-classifier.onrender.com
+
+## How to use the model
+
+
+## Limitations
+
+
+## Contributions
+
+## Future Work
+
+
+## Conclusion
 
